@@ -9,4 +9,13 @@ public void f1()
 for(int i=0;i<n;i++)
 {
 System.out.println(i);
+
+}
+public void f2()
+{
+for(int i=0;i<n;i++)
+{
+System.out.println("Hii");
+}
+}
 }
